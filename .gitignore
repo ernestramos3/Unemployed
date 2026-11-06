@@ -1,0 +1,6 @@
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.DS_Store
+GoogleService-Info.plist
+README-old.md
